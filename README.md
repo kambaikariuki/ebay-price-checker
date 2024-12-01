@@ -15,14 +15,14 @@ JavaScript enabled in the browser.
 eBay API Key to access the eBay API.
 
 How to Use
-Get eBay API Access:
+Get API Access:
 
-Sign up for rapid api and sign up to get your key.
+Sign up for rapid api and sign up to get your key. https://rapidapi.com/ecommet/api/ebay-average-selling-price/playground
 Clone the Repository: Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ebay-sold-items-viewer.git
+git clone https://github.com/yourusername/ebay-price-checker.git
 Install Dependencies: If you have additional dependencies, they will need to be installed. For example, if using a package manager like npm, run the following:
 
 bash
