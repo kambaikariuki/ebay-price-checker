@@ -1,4 +1,5 @@
 eBay Sold Items Viewer
+
 This is a web application that allows users to view sold items on eBay It displays each item with the title, image, sale price, and a link to the full item description on ebay. Additionally, the app calculates and displays the maximum, minimum, average, and median prices for the items fetched.
 
 
