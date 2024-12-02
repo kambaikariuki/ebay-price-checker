@@ -25,7 +25,7 @@ Sign up for RapidAPI and get your key:
 
 Clone this repository to your local machine:
 
-```bash
+bash
 git clone https://github.com/yourusername/ebay-price-checker.git
 3. Install Dependencies
 If you have additional dependencies, they will need to be installed. For example, if using a package manager like npm, run the following:
